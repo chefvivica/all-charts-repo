@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T19:58:03.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="H3Ha13OwN-w6-PNdCcxM" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T20:37:26.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="svW_1xx6i5U1_y-vDphO" version="14.2.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="3136" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,7 +407,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAUAGSdDY4ZzlaSWscVv-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="20" y="-610" width="450" height="170" as="geometry" />
+          <mxGeometry x="20" y="-610" width="370" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xAUAGSdDY4ZzlaSWscVv-6" value="devtools" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fontStyle=1;fillColor=#FFE433;" vertex="1" parent="1">
           <mxGeometry x="45" y="-570" width="85" height="30" as="geometry" />
@@ -460,9 +460,6 @@
         </mxCell>
         <mxCell id="xAUAGSdDY4ZzlaSWscVv-30" value="foreign key: user_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-270" y="220" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="xAUAGSdDY4ZzlaSWscVv-35" value="springboot-starter-security" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fontStyle=1;fillColor=#FFE433;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-560" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
